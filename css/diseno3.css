@@ -1,0 +1,36 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: #667CF9;
+}
+	
+header{
+	color: #EED51C;
+	margin: 0.50em;
+	padding: 50px;
+	font-size: 25px;
+	text-align: left;
+}
+
+div{
+	color: #ffffff;
+	margin: 25px;
+	padding:20px;
+	font-size: 20px;
+}
+
+h1{
+	font-size: 30px;
+}
+body img{
+	border-radius: 30%;
+	margin: 30px;
+}
+
+footer{
+	font-size: 25px;
+	text-align: center;	
+}

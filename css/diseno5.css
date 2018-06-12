@@ -1,0 +1,35 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: #667CF9;
+}
+	
+header{
+	color: #EED51C;
+	margin: 25px;
+	padding: 50px;
+	font-size: 20px;
+	text-align: center;
+}
+
+div{
+	color: #ffffff;
+	margin: 0.40em;
+	padding: 20px;
+	font-size: 20px;
+	text-align: left;
+}
+
+body img{
+	border-radius: 30%;
+	margin: 170px;
+}
+
+footer{
+	font-size: 35px;
+	text-align: center;	
+	padding: 20px;	
+}

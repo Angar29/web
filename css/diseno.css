@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+header{
+	color: #1F214B;
+	margin: 0.25em;
+	text-align: right;
+	padding: 70px;
+	font-size: 20px;
+}
+
+nav{
+	color: #F60;
+	margin: 0.25em;
+	text-align: center;
+	background: #252855;
+	padding: 50px;	
+	font-size: 50px;
+}
+
+section{
+	color: #F60;
+	margin: 0.50em;
+	text-align: center;
+	padding: 10px;	
+	font-size: 25px;	
+}
+
+footer{
+	color: #F60;
+	margin: 0.50em;
+	text-align: center;
+	padding: 10px;	
+	font-size: 15px;	
+}

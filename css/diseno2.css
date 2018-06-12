@@ -1,0 +1,30 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+header{
+	color: #F60;
+	margin: 0.25em;
+	text-align: left;
+	padding: 50px;
+	font-size: 30px;
+}
+
+nav{
+	color: #F60;
+	margin: 0.10em;
+	text-align: center;
+	background: #252855;
+	padding: 70px;	
+	font-size: 50px;
+
+}
+
+footer{
+	color: #F60;
+	margin: 0.10em;
+	text-align: left;
+	padding: 50px;	
+	font-size: 30px;	
+}

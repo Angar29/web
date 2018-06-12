@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	color: #1F214B;
+	margin: 0.25em;
+	text-align: center;
+	padding: 70px;
+}
+
+section{
+	color: #F60;
+	margin: 0.25em;
+	text-align: center;
+	background: #252855;
+	padding: 25px;	
+	font-size: 30px;
+	max-height: 550px;
+}

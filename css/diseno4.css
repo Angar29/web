@@ -1,0 +1,28 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: #667CF9;
+}
+	
+header{
+	color: #EED51C;
+	margin: 0.50em;
+	padding: 50px;
+	font-size: 20px;
+	text-align: left;
+}
+
+nav{
+	color: #ffffff;
+	margin: 25px;
+	padding: 15px;
+	font-size: 20px;
+}
+
+body img{
+	border-radius: 10%;
+	margin: 210px;
+}
