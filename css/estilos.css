@@ -1,0 +1,30 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.social h2 {
+	position: fixed;
+	left: 0;
+	top: 100px;
+	z-index: 3000;
+	list-style: none;
+	}
+ 
+.social h2 a {
+		display: inline-block;
+		color:#fff;
+		background: #000;
+		padding: 10px 15px;
+		text-decoration: none;
+		-webkit-transition:all 500ms ease;
+		-o-transition:all 500ms ease;
+		transition:all 500ms ease; 
+	}
+
+.social h2 .icon-twitter {background: #00abf0;}
+
+.social h2 a:hover {
+		background: #000; 
+		padding: 10px 30px; 
+	} 	
